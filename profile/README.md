@@ -1,1 +1,1 @@
-## CellAi is an AI-based technology platform analysing microscopy images.
+## CellAi is an AI-based technology platform for analysing microscopy images of biological cells.
